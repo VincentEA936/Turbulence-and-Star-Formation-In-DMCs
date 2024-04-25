@@ -10,3 +10,5 @@ By identifying denser gas clumps in these regions and measuring the turbulence a
 
 With the clumps identified, we could then measure the average turbulence and density of each clump and plot the data in a scatterplot to see what turbulence value corresponds to the most gas clumps. These dense clumps are the earliest indicators of early star formation, and thus a critical stage in the evolution of molecular clouds into star-forming regions.
 
+## Research Poster
+This project was presented at the Florida Tech Northrop-Grumman showcase in spring 2024. The poster can be viewed here "pending" along with references.
